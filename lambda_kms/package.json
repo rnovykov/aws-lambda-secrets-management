@@ -1,0 +1,8 @@
+{
+  "name": "lambda-kms-sdk-v3",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-kms": "^3.600.0"
+  }
+}

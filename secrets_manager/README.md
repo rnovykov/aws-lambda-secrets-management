@@ -1,7 +1,7 @@
 ## Using the AWS Console
 # Creating AWS Lambda
 You can use tutorial [README.MD](https://github.com/rnovykov/aws-lambda-secrets-management/blob/main/lambda_kms/README.md) to create lambda function.
-Please use [handler.js](https://github.com/rnovykov/aws-lambda-secrets-management/blob/main/secrets_manager/handler.js) code for this case
+Please use [handler.mjs](https://github.com/rnovykov/aws-lambda-secrets-management/blob/main/secrets_manager/handler.mjs) code for this case
 
 # Creating Our Secret
 To create a secret, search for the Secrets Manager service in the AWS console. The home screen should look like this:
