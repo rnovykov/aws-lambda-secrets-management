@@ -3,7 +3,7 @@
 Code for the Medium series **Secret management in AWS serverless**
 ([Part 1](https://medium.com/@just_novik/secret-management-in-aws-serverless-part-1-307945205202),
 [Part 2](https://medium.com/@just_novik/secret-management-in-aws-serverless-part-2-6d16c04373a1),
-Part 3: the 2026 rewrite).
+[Part 3](https://medium.com/@just_novik/secret-management-in-aws-serverless-part-3-what-three-years-changed-what-i-got-wrong-and-the-a6824278f540) the 2026 rewrite).
 
 > **2026 refresh.** All examples now use AWS SDK for JavaScript **v3** on Node.js 20+, never log secret values,
 > and the Vault example uses the Vault Lambda extension. The original 2023 code is in git history.
